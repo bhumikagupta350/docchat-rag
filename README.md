@@ -2,11 +2,12 @@
 
 Upload PDFs and ask questions about them. Answers are generated **only from your documents** and come with the **exact page numbers** they were taken from. If the answer isn't in the document, the app says so instead of making something up.
 
-![DocChat screenshot](docs/screenshot.png)
+
 
 > Built from scratch: the chunking, retrieval and prompt-grounding logic is hand-written, with no LangChain or LlamaIndex.
 
----
+<img width="1883" height="970" alt="image" src="https://github.com/user-attachments/assets/545e349e-2500-4df5-aa77-8708031d90f8" />
+
 
 ## Features
 
