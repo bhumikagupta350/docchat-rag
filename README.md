@@ -196,8 +196,4 @@ Example response from `/ask`:
 - [ ] Docker setup and deployment
 - [ ] Automated tests and CI
 
----
 
-## License
-
-MIT
