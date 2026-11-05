@@ -6,7 +6,8 @@ Upload PDFs and ask questions about them. Answers are generated **only from your
 
 > Built from scratch: the chunking, retrieval and prompt-grounding logic is hand-written, with no LangChain or LlamaIndex.
 
-<img width="1883" height="970" alt="image" src="https://github.com/user-attachments/assets/545e349e-2500-4df5-aa77-8708031d90f8" />
+<img width="1855" height="1886" alt="image" src="https://github.com/user-attachments/assets/5888aaf8-e032-4942-b17d-6398a2cfc068" />
+
 
 
 ## Features
